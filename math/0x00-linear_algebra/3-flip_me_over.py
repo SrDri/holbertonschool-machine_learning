@@ -11,4 +11,3 @@ def matrix_transpose(matrix):
             aux += [j[i]]
         result += [aux]
     return result
-	
